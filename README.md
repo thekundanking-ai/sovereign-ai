@@ -70,6 +70,15 @@ All data ingestion, vector embeddings, document retrieval, LLM inference, and do
 
 ---
 
+
+# interface 
+
+<img width="1893" height="808" alt="image" src="https://github.com/user-attachments/assets/19a20bc7-9f4e-46e6-b5de-f98f97ff42e0" />
+
+<img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/c829c9c4-547b-42fe-8ccd-58ed9050a20f" />
+
+
+
 ## ✨ Core Features
 
 - **100% Local Processing**: No external API calls to OpenAI, Gemini, Anthropic, or Groq.
